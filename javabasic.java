@@ -1,8 +1,8 @@
 public class javabasic {
     public static void main(String[] args) {
-        System.out.println("****");
-        System.out.println("***");
-        System.out.print("**\n");
-        System.out.print("*");
+        int a = 5;
+        int b = 10;
+        System.out.println(a);
+        System.out.println(b);
     }
 }
