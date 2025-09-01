@@ -98,5 +98,5 @@
 </p>
 
 <!-- Gradient Long Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=250&section=footer&width=100%&reversal=false&fontAlign=70&animation=twinkling&gradient=00C4FF,0077FF,5D00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=120&section=footer&width=250%&reversal=false&fontAlign=70&animation=twinkling&gradient=00C4FF,0077FF,5D00FF"/>
 
