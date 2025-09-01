@@ -97,5 +97,6 @@
   <img src="https://komarev.com/ghpvc/?username=MOUPIYAMONDAL&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=250&section=footer"/>
+<!-- Gradient Long Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=250&section=footer&width=100%&reversal=false&fontAlign=70&animation=twinkling&gradient=00C4FF,0077FF,5D00FF"/>
+
