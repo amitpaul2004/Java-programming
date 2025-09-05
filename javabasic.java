@@ -1,9 +1,10 @@
 import java.util.*;
 public class javabasic {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
-        System.out.println(input);    
+     char ch = 'a';
+     int no =ch;
+
+        System.out.println(no);    
     }
 }
 
