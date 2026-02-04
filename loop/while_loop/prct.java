@@ -6,6 +6,6 @@ public class prct {
             System.out.println("Hello World");
             counter++;
         }
-        
+      System.out.println();  
     }
 }
